@@ -6,7 +6,7 @@ AI-Driven Web Developer focused on building intelligent systems and scalable bac
 
 ## About Me
 
-I'm a Computer Engineering student specializing in AI-powered web systems and intelligent agents.
+I'm a Computer Engineering interested in AI-powered web systems and intelligent agents.
 
 I design and implement modern web applications that integrate large language models with structured data, backend APIs, and real-world workflows.
 
