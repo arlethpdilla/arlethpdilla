@@ -1,53 +1,58 @@
-# Hi, I'm Arleth 
+<h1 align="center">Hi, I'm Arleth </h1>
 
-AI-Driven Web Developer focused on building intelligent systems and scalable backend architectures.
+<p align="center">
+  <strong>AI-Driven Web Developer</strong><br/>
+  Building intelligent agents and scalable AI-powered web systems
+</p>
 
 ---
 
 ## About Me
 
-I'm a Computer Engineering interested in AI-powered web systems and intelligent agents.
+Computer Engineering, I specialize in designing and implementing AI-powered web systems that integrate large language models with structured data, backend APIs, and real-world workflows.
 
-I design and implement modern web applications that integrate large language models with structured data, backend APIs, and real-world workflows.
+My work focuses on building intelligent agents, retrieval-augmented systems, and modular backend architectures that are scalable, secure, and production-ready.
 
-My interests include:
+---
 
-- Intelligent Agents
-- Retrieval-Augmented Generation (RAG)
-- Scalable Backend Systems
-- AI + Web Architectures
-- Workflow Automation
+## Core Focus Areas
+
+- Intelligent Agent Architectures  
+- Retrieval-Augmented Generation (RAG)  
+- AI + Web System Integration  
+- Scalable Backend Design  
+- Workflow Automation & Orchestration  
 
 ---
 
 ## Tech Stack
 
 ### Web Development
-- JavaScript / TypeScript
-- React / Next.js
-- RESTful APIs
-- FastAPI
-- Client–Server Architecture
-- Role-Based Access Control
+- JavaScript / TypeScript  
+- React / Next.js  
+- RESTful APIs  
+- FastAPI  
+- Client–Server Architecture  
+- Role-Based Access Control  
 
 ### Artificial Intelligence
-- LLM Integration
-- RAG Architectures
-- Prompt Engineering
-- AI Workflow Orchestration
-- Structured Data Processing
+- LLM Integration  
+- RAG Pipelines  
+- Prompt Engineering  
+- Structured Data Processing  
+- AI Workflow Orchestration  
 
 ---
 
-## Current Focus
+## What I’m Currently Building
 
-- Building AI-powered web applications
-- Designing modular backend architectures
-- Developing intelligent agent systems
-- Combining AI with scalable web technologies
+- AI-powered web applications  
+- Modular backend architectures  
+- Intelligent log analysis systems  
+- Agent-based automation tools  
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/arleth-padilla-narv%C3%A1ez-786332275/
+[LinkedIn](https://www.linkedin.com/in/arleth-padilla-narv%C3%A1ez-786332275/)
