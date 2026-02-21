@@ -20,7 +20,7 @@ My interests include:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Web Development
 - JavaScript / TypeScript
@@ -39,7 +39,7 @@ My interests include:
 
 ---
 
-## 🔬 Current Focus
+## Current Focus
 
 - Building AI-powered web applications
 - Designing modular backend architectures
